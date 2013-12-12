@@ -19,6 +19,6 @@ fn main() {
     let random_vec = make_random_vec();
     let sorted_vec = merge::merge_sort(random_vec);
 
-    println(fmt!("%?", random_vec));
-    println(fmt!("%?", sorted_vec));
+    println!("{:?}", random_vec);
+    println!("{:?}", sorted_vec);
 }
