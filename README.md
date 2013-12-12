@@ -1,4 +1,4 @@
 rust_merge_sort
 ===============
 
-Merge sort in Rust
+A simple merge sort implementation in Rust, created while playing with/learning the language.
